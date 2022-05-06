@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Today\'s house</string>
+
+    <!-- tablayout contents -->
+    <string name="home">홈</string>
+    <string name="store">스토어</string>
+    <string name="interior">인테리어시공</string>
+    <string name="my_page">마이페이지</string>
+    <!-- tablayout contents -->
+
+
+</resources>
